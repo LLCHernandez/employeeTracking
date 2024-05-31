@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Sales Lead",
+        "salary": "100000"
+    },
+    {
+        "title": "Salesperson",
+        "salary": "80000"
+    },
+    {
+        "title": "Lead Engineer",
+        "salary": "150000"
+    },
+    {
+        "title": "Software Engineer",
+        "salary": "125000"
+    },
+    {
+        "title": "Account Manager",
+        "salary": "160000"
+    }
+]
